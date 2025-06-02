@@ -1,0 +1,82 @@
+[
+    {
+        "id": "p001",
+        "name": "Gucci Dionysus Super Mini Bag",
+        "brand": "Gucci",
+        "price": 98000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1622383563960-90c79133b381?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Textured leather super mini bag with Dionysus tiger head closure. Perfect for evening wear.",
+        "category": "Handbags"
+    },
+    {
+        "id": "p002",
+        "name": "Versace Barocco Silk Shirt",
+        "brand": "Versace",
+        "price": 65000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1678583495209-fa93d0c2654d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Classic Versace silk shirt with iconic Barocco print. Regular fit.",
+        "category": "Apparel"
+    },
+    {
+        "id": "p003",
+        "name": "Rolex Submariner Date",
+        "brand": "Rolex",
+        "price": 950000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1620023447382-777263c93774?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Timeless Oyster Perpetual Submariner Date in Oystersteel. Water resistant, 300m.",
+        "category": "Watches"
+    },
+    {
+        "id": "p004",
+        "name": "Christian Louboutin So Kate 120 Pumps",
+        "brand": "Christian Louboutin",
+        "price": 72000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1596700813959-1e3562a0e28d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Iconic So Kate pumps in black patent leather with signature red sole. 120mm heel.",
+        "category": "Footwear"
+    },
+    {
+        "id": "p005",
+        "name": "Louis Vuitton Keepall Bandoulière 50",
+        "brand": "Louis Vuitton",
+        "price": 185000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1621242337775-689b96497f54?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "An iconic piece since 1930, the Keepall Bandoulière 50 in Monogram canvas is a travel bag that lives up to its name.",
+        "category": "Bags"
+    },
+    {
+        "id": "p006",
+        "name": "Burberry Trench Coat",
+        "brand": "Burberry",
+        "price": 220000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1515904550882-7aa91a45a05b?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A classic trench coat made in England from cotton gabardine, developed for its protective qualities.",
+        "category": "Outerwear"
+    },
+    {
+        "id": "p007",
+        "name": "Prada Saffiano Leather Wallet",
+        "brand": "Prada",
+        "price": 45000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1617462002344-934304899564?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Compact Saffiano leather wallet with metal lettering logo. Features card slots and bill compartments.",
+        "category": "Accessories"
+    },
+    {
+        "id": "p008",
+        "name": "Balenciaga Triple S Sneakers",
+        "brand": "Balenciaga",
+        "price": 88000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1600185392062-84081c7f4640?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Iconic multi-layered chunky sneaker in leather and mesh. Embossed size at the toe.",
+        "category": "Footwear"
+    }
+]

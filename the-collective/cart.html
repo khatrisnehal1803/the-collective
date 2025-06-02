@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart - The Collective</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="main-header">
+        <div class="container">
+            <nav class="navbar">
+                <a href="index.html" class="logo">The Collective</a>
+                <ul class="nav-links">
+                    <li><a href="products.html">Shop All</a></li>
+                    <li><a href="#">Men</a></li>
+                    <li><a href="#">Women</a></li>
+                    <li><a href="#">Brands</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="nav-icons">
+                    <input type="text" placeholder="Search..." class="search-input">
+                    <a href="#" class="icon-link">👤</a>
+                    <a href="cart.html" class="icon-link cart-icon">🛒<span id="cart-count" class="cart-count">0</span></a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <h1 class="page-title">Your Shopping Cart</h1>
+
+            <section class="cart-section">
+                <div id="cart-items" class="cart-items">
+                    <p class="loading-message" id="empty-cart-message">Your cart is empty. <a href="products.html">Start shopping!</a></p>
+                    </div>
+
+                <div class="cart-summary" id="cart-summary">
+                    <p>Subtotal: <span id="cart-subtotal">₹0</span></p>
+                    <button class="btn-checkout" id="checkout-button">Proceed to Checkout</button>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p>&copy; 2025 The Collective. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/common.js"></script>
+    <script src="js/cart.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Collective - Your Curated Luxury Destination</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="main-header">
+        <div class="container">
+            <nav class="navbar">
+                <a href="index.html" class="logo">The Collective</a>
+                <ul class="nav-links">
+                    <li><a href="products.html">Shop All</a></li>
+                    <li><a href="#">Men</a></li>
+                    <li><a href="#">Women</a></li>
+                    <li><a href="#">Brands</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="nav-icons">
+                    <input type="text" placeholder="Search..." class="search-input">
+                    <a href="#" class="icon-link">👤</a>
+                    <a href="cart.html" class="icon-link cart-icon">🛒<span id="cart-count" class="cart-count">0</span></a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <section class="hero-section">
+            <div class="container">
+                <h2>Discover Exquisite Style</h2>
+                <p>Curated collections from the world's most renowned luxury brands.</p>
+                <a href="products.html" class="btn-shop-now">Shop Now</a>
+            </div>
+        </section>
+
+        <section class="categories-section">
+            <div class="container">
+                <h2 class="section-title">Shop by Category</h2>
+                <div class="category-grid">
+                    <a href="products.html?category=handbags" class="category-card">
+                        <img src="https://images.unsplash.com/photo-1596700813959-1e3562a0e28d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Handbags" class="category-image">
+                        <div class="category-info">Handbags</div>
+                    </a>
+                    <a href="products.html?category=apparel" class="category-card">
+                        <img src="https://images.unsplash.com/photo-1678583495209-fa93d0c2654d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Apparel" class="category-image">
+                        <div class="category-info">Apparel</div>
+                    </a>
+                    <a href="products.html?category=watches" class="category-card">
+                        <img src="https://images.unsplash.com/photo-1620023447382-777263c93774?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Watches" class="category-image">
+                        <div class="category-info">Watches</div>
+                    </a>
+                    <a href="products.html?category=footwear" class="category-card">
+                        <img src="https://images.unsplash.com/photo-1549298916-f52d72f11b62?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Footwear" class="category-image">
+                        <div class="category-info">Footwear</div>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="products-section">
+            <div class="container">
+                <h2 class="section-title">Our Featured Selections</h2>
+                <div id="featured-product-grid" class="product-grid">
+                    <p class="loading-message">Loading luxurious selections...</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p>&copy; 2025 The Collective. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/common.js"></script>
+    <script src="js/home.js"></script>
+</body>
+</html>
