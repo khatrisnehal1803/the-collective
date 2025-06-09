@@ -1,0 +1,302 @@
+[
+    {
+        "id": "p001",
+        "name": "Gucci Dionysus Super Mini Bag",
+        "brand": "Gucci",
+        "price": 98000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1622383563960-90c79133b381?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Textured leather super mini bag with Dionysus tiger head closure. Perfect for evening wear.",
+        "category": "Handbags"
+    },
+    {
+        "id": "p002",
+        "name": "Versace Barocco Silk Shirt",
+        "brand": "Versace",
+        "price": 65000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1678583495209-fa93d0c2654d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Classic Versace silk shirt with iconic Barocco print. Regular fit.",
+        "category": "Apparel"
+    },
+    {
+        "id": "p003",
+        "name": "Rolex Submariner Date",
+        "brand": "Rolex",
+        "price": 950000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1620023447382-777263c93774?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Timeless Oyster Perpetual Submariner Date in Oystersteel. Water resistant, 300m.",
+        "category": "Watches"
+    },
+    {
+        "id": "p004",
+        "name": "Christian Louboutin So Kate 120 Pumps",
+        "brand": "Christian Louboutin",
+        "price": 72000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1596700813959-1e3562a0e28d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Iconic So Kate pumps in black patent leather with signature red sole. 120mm heel.",
+        "category": "Footwear"
+    },
+    {
+        "id": "p005",
+        "name": "Louis Vuitton Keepall Bandoulière 50",
+        "brand": "Louis Vuitton",
+        "price": 185000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1621242337775-689b96497f54?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "An iconic piece since 1930, the Keepall Bandoulière 50 in Monogram canvas is a travel bag that lives up to its name.",
+        "category": "Bags"
+    },
+    {
+        "id": "p006",
+        "name": "Burberry Trench Coat",
+        "brand": "Burberry",
+        "price": 220000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1515904550882-7aa91a45a05b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A classic trench coat made in England from cotton gabardine, developed for its protective qualities.",
+        "category": "Outerwear"
+    },
+    {
+        "id": "p007",
+        "name": "Prada Saffiano Leather Wallet",
+        "brand": "Prada",
+        "price": 45000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1617462002344-934304899564?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Compact Saffiano leather wallet with metal lettering logo. Features card slots and bill compartments.",
+        "category": "Accessories"
+    },
+    {
+        "id": "p008",
+        "name": "Balenciaga Triple S Sneakers",
+        "brand": "Balenciaga",
+        "price": 88000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1600185392062-84081c7f4640?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Iconic multi-layered chunky sneaker in leather and mesh. Embossed size at the toe.",
+        "category": "Footwear"
+    },
+    {
+        "id": "p009",
+        "name": "Fendi Peekaboo ISeeU Bag",
+        "brand": "Fendi",
+        "price": 310000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1577789437299-db065f4d852a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Medium Peekaboo ISeeU bag with soft, pink leather and signature twist lock.",
+        "category": "Handbags"
+    },
+    {
+        "id": "p010",
+        "name": "Hermès Birkin 30 Bag",
+        "brand": "Hermès",
+        "price": 1200000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1596466952796-015822f309a4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Exotic leather Birkin bag, size 30, with palladium hardware. A true collector's item.",
+        "category": "Handbags"
+    },
+    {
+        "id": "p011",
+        "name": "Dior Saddle Bag",
+        "brand": "Dior",
+        "price": 210000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1627993098314-e5e5d3d49f19?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Iconic Saddle bag in blue Dior Oblique jacquard, with antique gold-finish metal 'CD' signature.",
+        "category": "Handbags"
+    },
+    {
+        "id": "p012",
+        "name": "Givenchy Antigona Mini Bag",
+        "brand": "Givenchy",
+        "price": 145000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1592813136202-98516d214a1e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Mini Antigona bag in black leather, featuring a triangular patch with Givenchy signature.",
+        "category": "Handbags"
+    },
+    {
+        "id": "p013",
+        "name": "Chanel Classic Flap Bag",
+        "brand": "Chanel",
+        "price": 850000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1563223030-9b4b0e50f3b9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Small Classic Flap bag in black quilted lambskin with gold-tone metal. A timeless masterpiece.",
+        "category": "Handbags"
+    },
+    {
+        "id": "p014",
+        "name": "Salvatore Ferragamo Gancini Loafers",
+        "brand": "Salvatore Ferragamo",
+        "price": 55000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1625902094209-ce8c2323e429?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Elegant leather loafers with iconic Gancini buckle. Perfect for business casual.",
+        "category": "Footwear"
+    },
+    {
+        "id": "p015",
+        "name": "Tom Ford Velvet Blazer",
+        "brand": "Tom Ford",
+        "price": 190000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1596700813959-1e3562a0e28d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Luxurious velvet single-breasted blazer with peaked lapels. Impeccable tailoring.",
+        "category": "Apparel"
+    },
+    {
+        "id": "p016",
+        "name": "Omega Seamaster Diver 300M",
+        "brand": "Omega",
+        "price": 480000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1596700813959-1e3562a0e28d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Professional dive watch with black ceramic dial and unidirectional rotating bezel. Master Chronometer certified.",
+        "category": "Watches"
+    },
+    {
+        "id": "p017",
+        "name": "Cartier Love Bracelet",
+        "brand": "Cartier",
+        "price": 380000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1632766864147-3801f92e7c41?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Iconic bracelet in 18K yellow gold, set with two functional screws and one decorative screw.",
+        "category": "Jewelry"
+    },
+    {
+        "id": "p018",
+        "name": "Bottega Veneta Cassette Bag",
+        "brand": "Bottega Veneta",
+        "price": 250000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1610668987483-34e8d2e850b5?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Padded Intrecciato leather cross-body bag. A modern classic.",
+        "category": "Bags"
+    },
+    {
+        "id": "p019",
+        "name": "Saint Laurent Sac De Jour Bag",
+        "brand": "Saint Laurent",
+        "price": 275000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1627993098314-e5e5d3d49f19?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Small classic Sac De Jour bag in grainy leather with accordion sides. Elegant and structured.",
+        "category": "Handbags"
+    },
+    {
+        "id": "p020",
+        "name": "Tiffany & Co. T Wire Bracelet",
+        "brand": "Tiffany & Co.",
+        "price": 120000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1600185392062-84081c7f4640?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Sleek Tiffany T wire bracelet in 18k rose gold. Modern and minimalist.",
+        "category": "Jewelry"
+    },
+    {
+        "id": "p021",
+        "name": "Moncler Maya Short Down Jacket",
+        "brand": "Moncler",
+        "price": 170000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1528699196152-4753066d5b03?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Iconic shiny nylon laqué down jacket with detachable hood and signature patch.",
+        "category": "Outerwear"
+    },
+    {
+        "id": "p022",
+        "name": "Valentino Garavani Rockstud Pumps",
+        "brand": "Valentino",
+        "price": 80000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1596700813959-1e3562a0e28d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Rockstud ankle strap pumps in patent leather with platinum-finish studs. Timeless elegance.",
+        "category": "Footwear"
+    },
+    {
+        "id": "p023",
+        "name": "Balmain Double-Breasted Blazer",
+        "brand": "Balmain",
+        "price": 160000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1559813292-690a2a537d8a?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Signature wool grain de poudre double-breasted blazer with structured shoulders.",
+        "category": "Apparel"
+    },
+    {
+        "id": "p024",
+        "name": "Breitling Chronomat Automatic 36",
+        "brand": "Breitling",
+        "price": 350000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1620023447382-777263c93774?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Elegant and sporty watch in stainless steel with a mother-of-pearl dial.",
+        "category": "Watches"
+    },
+    {
+        "id": "p025",
+        "name": "Alexander McQueen Skull Scarf",
+        "brand": "Alexander McQueen",
+        "price": 30000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1617462002344-934304899564?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Lightweight modal and cashmere blend scarf featuring the iconic skull motif.",
+        "category": "Accessories"
+    },
+    {
+        "id": "p026",
+        "name": "Jimmy Choo Romy 100 Pumps",
+        "brand": "Jimmy Choo",
+        "price": 68000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1596700813959-1e3562a0e28d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Pointed-toe Romy pumps in classic black suede, 100mm heel. A timeless choice.",
+        "category": "Footwear"
+    },
+    {
+        "id": "p027",
+        "name": "Yves Saint Laurent Tuxedo Suit",
+        "brand": "Yves Saint Laurent",
+        "price": 350000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1563223030-9b4b0e50f3b9?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Signature 'Le Smoking' tuxedo suit in black wool, featuring satin lapels and a slim fit.",
+        "category": "Apparel"
+    },
+    {
+        "id": "p028",
+        "name": "Panerai Luminor Marina",
+        "brand": "Panerai",
+        "price": 720000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1620023447382-777263c93774?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Robust Luminor Marina watch with a 44mm stainless steel case and iconic crown guard.",
+        "category": "Watches"
+    },
+    {
+        "id": "p029",
+        "name": "Gucci GG Marmont Belt",
+        "brand": "Gucci",
+        "price": 40000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1617462002344-934304899564?q=80&w=2940&auto=format&fit=cover&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Leather belt with the iconic double G buckle. Versatile for both casual and formal wear.",
+        "category": "Accessories"
+    },
+    {
+        "id": "p030",
+        "name": "Patek Philippe Nautilus",
+        "brand": "Patek Philippe",
+        "price": 8500000,
+        "currency": "INR",
+        "imageUrl": "https://images.unsplash.com/photo-1620023447382-777263c93774?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "The quintessential luxury sports watch, in stainless steel with a blue gradient dial.",
+        "category": "Watches"
+    }
+]

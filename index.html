@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Collective - Your Curated Luxury Destination</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="main-header">
+        <div class="container">
+            <nav class="navbar">
+                <a href="index.html" class="logo">The Collective</a>
+                    <ul class="nav-links">
+                    <li><a href="#">New Arrivals</a></li>
+                    <li><a href="#">Men</a></li>
+                    <li><a href="#">Women</a></li>
+                    <li><a href="#">Kids</a></li>
+                    <li><a href="#">Bags</a></li>
+                    <li><a href="#">Shope</a></li>
+                    <li><a href="#">Watches</a></li>
+                    <li><a href="#">Bloge</a></li>
+                    <li><a href="#">Gifts</a></li>
+                    <li><a href="#">Big and Tll</a></li>
+                    <li><a href="#">Outlet</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="nav-icons">
+                    <input type="text" placeholder="Search..." class="search-input">
+                    <a href="#" class="icon-link">👤</a>
+                    <a href="cart.html" class="icon-link cart-icon">🛒<span id="cart-count" class="cart-count">0</span></a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <section class="hero-section">
+             <img src="https://youtu.be/eiGv3QthdgU" alt="">
+            <div class="container">
+               <h2>Discover Exquisite Style</h2>
+                <p>Curated collections from the world's most renowned luxury brands.</p>
+                <a href="products.html" class="btn-shop-now">Shop Now</a>
+            </div>
+        </section>
+
+        <section class="categories-section">
+            <div class="container">
+                <h2 class="section-title">Shop by Category</h2>
+                <div class="category-grid">
+                    <a href="products.html?category=handbags" class="category-card">
+                        <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTLWId9-9uU04S3aBnFJCZobYi3xdNGkzTNSB_h3cWITnhylMk_sMvKMSG2spNRFDfzxJXpWxUYP7UUtlOFaKjfbQeCwizzQudLR-ibVuU4">
+                        <div class="category-info">Handbags</div>
+                    </a>
+                    <a href="products.html?category=apparel" class="category-card">
+                        <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoODa96g6BCaXu0KD0FsOC98zTbP5rtcbZrNX_F9NSjKf-5GzUpSBX6_w-cjPdvlo9gJWKWj9Gnxl_XY6hD-yv6Caj0LnHU-XgMzdDqYQ">
+                        <div class="category-info">Apparel</div>
+                    </a>
+                    <a href="products.html?category=watches" class="category-card">
+                        <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSEQ4vM32C7kXo2uUcnlG3g_csGsZxTK805g_PFP4MWr7geodfce9dVfSBtSUB6yXKEaNmkZUFj30v6KI0s6ZeSc9Hf-6-zwWvXMReYqDweMly4u8gBX6gefQ">
+                        <div class="category-info">Watches</div>
+                    </a>
+                    <a href="products.html?category=footwear" class="category-card">
+                        <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvzxItutCU4o74KKp5ZFfG0dZG85NKJB-emDpWqwCedC4y-uY7_5_32VN04g2X79iw8fTeLfjmSnL5s1aBgNiR99ABJIwj-_SoHN_LRmP5B8c9fN8GiA29tw">
+                        <div class="category-info">Footwear</div>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="products-section">
+            <div class="container">
+                <h2 class="section-title">Our Featured Selections</h2>
+                <div id="featured-product-grid" class="product-grid">
+                    <p class="loading-message">Loading luxurious selections...</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p>&copy; 2025 The Collective. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/common.js"></script>
+    <script src="js/home.js"></script>
+</body>
+</html>
